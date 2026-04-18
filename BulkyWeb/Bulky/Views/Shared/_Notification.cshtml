@@ -1,0 +1,32 @@
+﻿<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script type="text/javascript">
+    toastr.options = {
+        closeButton: true,
+        progressBar: true,
+        positionClass: "toast-top-right",
+        timeOut: "3000",
+        preventDuplicates: true   // ⭐ IMPORTANT
+    };
+</script>
+
+@if (TempData["create"] != null)
+{
+    <script>
+        toastr.success('@TempData["create"]');
+    </script>
+}
+
+@if (TempData["update"] != null)
+{
+    <script>
+        toastr.info('@TempData["update"]');
+    </script>
+}
+
+@if (TempData["delete"] != null)
+{
+    <script>
+        toastr.error('@TempData["delete"]');
+    </script>
+}

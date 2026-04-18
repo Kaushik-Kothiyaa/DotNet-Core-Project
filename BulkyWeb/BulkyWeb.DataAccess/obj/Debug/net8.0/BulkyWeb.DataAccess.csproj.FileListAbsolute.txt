@@ -1,0 +1,17 @@
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.csproj.AssemblyReference.cache
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.AssemblyInfoInputs.cache
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.AssemblyInfo.cs
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.csproj.CoreCompileInputs.cache
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.deps.json
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.runtimeconfig.json
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.dll
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.pdb
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.Model.dll
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.Model.pdb
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.3CCCC517.Up2Date
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.dll
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\refint\BulkyWeb.DataAccess.dll
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.pdb
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.genruntimeconfig.cache
+G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\ref\BulkyWeb.DataAccess.dll
