@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Saturday\\BulkyWeb\\Bulky\\Bulky.csproj": {}
+    "G:\\Saturday\\New folder\\BulkyWeb\\Bulky\\Bulky.csproj": {}
   },
   "projects": {
-    "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj": {
+    "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj",
+        "projectUniqueName": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj",
         "projectName": "BulkyWeb.DataAccess",
-        "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj",
+        "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\obj\\",
+        "outputPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
-                "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj"
+              "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
+                "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
+    "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
+        "projectUniqueName": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
         "projectName": "BulkyWeb.Model",
-        "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
+        "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\obj\\",
+        "outputPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +176,14 @@
         }
       }
     },
-    "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
+    "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
+        "projectUniqueName": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
         "projectName": "BulkyWeb.Utility",
-        "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
+        "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\obj\\",
+        "outputPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,14 +251,14 @@
         }
       }
     },
-    "G:\\Saturday\\BulkyWeb\\Bulky\\Bulky.csproj": {
+    "G:\\Saturday\\New folder\\BulkyWeb\\Bulky\\Bulky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Saturday\\BulkyWeb\\Bulky\\Bulky.csproj",
+        "projectUniqueName": "G:\\Saturday\\New folder\\BulkyWeb\\Bulky\\Bulky.csproj",
         "projectName": "Bulky",
-        "projectPath": "G:\\Saturday\\BulkyWeb\\Bulky\\Bulky.csproj",
+        "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\Bulky\\Bulky.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "G:\\Saturday\\BulkyWeb\\Bulky\\obj\\",
+        "outputPath": "G:\\Saturday\\New folder\\BulkyWeb\\Bulky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,14 +279,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj": {
-                "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj"
+              "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj": {
+                "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.DataAccess\\BulkyWeb.DataAccess.csproj"
               },
-              "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
-                "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj"
+              "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj": {
+                "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj"
               },
-              "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
-                "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj"
+              "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
+                "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj"
               }
             }
           }

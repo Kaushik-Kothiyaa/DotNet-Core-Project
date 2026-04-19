@@ -10,3 +10,16 @@ G:\Saturday\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.dll
 G:\Saturday\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\refint\BulkyWeb.Model.dll
 G:\Saturday\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.pdb
 G:\Saturday\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\ref\BulkyWeb.Model.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\bin\Debug\net8.0\BulkyWeb.Model.deps.json
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\bin\Debug\net8.0\BulkyWeb.Model.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\bin\Debug\net8.0\BulkyWeb.Model.pdb
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.csproj.AssemblyReference.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.AssemblyInfoInputs.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.AssemblyInfo.cs
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.csproj.CoreCompileInputs.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.sourcelink.json
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\refint\BulkyWeb.Model.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\BulkyWeb.Model.pdb
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.Model\obj\Debug\net8.0\ref\BulkyWeb.Model.dll

@@ -15,3 +15,21 @@ G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\refint\BulkyWeb.DataAc
 G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.pdb
 G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.genruntimeconfig.cache
 G:\Saturday\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\ref\BulkyWeb.DataAccess.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.deps.json
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.runtimeconfig.json
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.DataAccess.pdb
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.Model.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\bin\Debug\net8.0\BulkyWeb.Model.pdb
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.csproj.AssemblyReference.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.AssemblyInfoInputs.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.AssemblyInfo.cs
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.csproj.CoreCompileInputs.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.sourcelink.json
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.3CCCC517.Up2Date
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\refint\BulkyWeb.DataAccess.dll
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.pdb
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\BulkyWeb.DataAccess.genruntimeconfig.cache
+G:\Saturday\New folder\BulkyWeb\BulkyWeb.DataAccess\obj\Debug\net8.0\ref\BulkyWeb.DataAccess.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {}
+    "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {}
   },
   "projects": {
-    "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
+    "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
+        "projectUniqueName": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
         "projectName": "BulkyWeb.Utility",
-        "projectPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
+        "projectPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\BulkyWeb.Utility.csproj",
         "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
-        "outputPath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Utility\\obj\\",
+        "outputPath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

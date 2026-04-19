@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uJGQFOF4ZF8=",
+  "dgSpecHash": "Wusp40PiMqU=",
   "success": true,
-  "projectFilePath": "G:\\Saturday\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
+  "projectFilePath": "G:\\Saturday\\New folder\\BulkyWeb\\BulkyWeb.Model\\BulkyWeb.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jerry\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "C:\\Users\\jerry\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
